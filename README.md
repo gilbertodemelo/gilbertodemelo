@@ -1,4 +1,4 @@
-#### Computer Science at Mackenzie Presbyterian University
+#### Computer Science at Mackenzie Presbyterian University. Emphasis on the Science.
 
 ## Tech Stack
 
